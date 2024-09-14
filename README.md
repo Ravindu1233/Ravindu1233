@@ -1,6 +1,8 @@
 <!-- Header Section -->
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center"><font face="Arial">Hi 👋, I'm Ravindu Dilshan</font></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu+Dishan!;" />
+</h1>
 <h3 align="center"><font face="Arial">Passionate Software Engineering Student | Building Innovative Solutions in the Digital World.</font></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindu12339&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
@@ -41,6 +43,12 @@
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="intellij" title="intellij" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/netbeans-1.svg" alt="netbeans" title="netbeans" width="40" height="40"/> 
 </p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ravindu1233&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ravindu1233&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Contact me:</font></h3>
