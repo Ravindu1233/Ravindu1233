@@ -53,11 +53,18 @@
 </div>
 
 <!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Contact me:</font></h3>
-<p align="left">
-  -  <a href="mailto:ravindu.dilshan1013@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" title="gmail" width="30" height="30"/> ravindu.dilshan1013@gmail.com</a><br>
-  -   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" title="discord" width="30" height="30"/> sashka0441<br>
-  -  <a href="https://www.linkedin.com/in/ravindu-weerasinghe-681656317/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" title="linkedin" width="30" height="30"/> LinkedIn</a>
-</p>
+<h3 align="center"><font size="+2" face="Verdana">Contact me:</font></h3>
+<div align="center"> 
+  <a href="mailto:ravindu.dilshan1013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ravindu-weerasinghe-681656317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
 
 
